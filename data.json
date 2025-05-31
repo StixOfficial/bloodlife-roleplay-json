@@ -35,7 +35,7 @@
             "title": "MLO & VEHICLE OPTIMIZATION"
         },
         {
-            "description": "Realistic EMS system with limb-based injury logic, new ragdoll mechanics for running/falling/jumping, and different healing tools for civilians and police.",
+            "description": "Realistic EMS system with more equitment, for better RolePlay.",
             "type": "NEW",
             "title": "NEW AMBULANCE SYSTEM"
         },
@@ -65,9 +65,9 @@
             "title": "PAUSE MENU"
         },
         {
-            "description": "New in-vehicle CarPlay radio system optimized for performance and ease of use.",
-            "type": "NEW",
-            "title": "CARPLAY SYSTEM"
+            "description": "All guns have been tuned for the best RolePlay.",
+            "type": "GUNS",
+            "title": "Guns"
         },
         {
             "description": "New radio system added with realistic radio animations for better immersion.",
@@ -90,9 +90,9 @@
             "title": "VEHICLE KEY SYSTEM"
         },
         {
-            "description": "New hospital interior now located in Vinewood, offering improved performance and layout.",
+            "description": "New hospital now located out side city hall, offering improved performance and layout.",
             "type": "NEW",
-            "title": "NEW VINEWOOD HOSPITAL"
+            "title": "NEW HOSPITAL"
         },
         {
             "description": "Business crafting system and boss menu have been streamlined for better ease of use for business owners.",
@@ -100,14 +100,14 @@
             "title": "BUSINESS CRAFTING/BOSS MENU"
         },
         {
-            "description": "New arcade event added at Postal 910 for fun competitive events.",
+            "description": "New casino event added for fun and more money.",
             "type": "NEW",
-            "title": "BloodLife ARCADES"
+            "title": "BloodLife casino"
         },
         {
-            "description": "Laser tag system added at Postal 622  play competitive matches with friends using laser gear.",
+            "description": "We have removed all scripts mlos and more that doesnt get used.",
             "type": "NEW",
-            "title": "PAINTBALL SYSTEM"
+            "title": "Removed Unused Scripts"
 
             }
 
