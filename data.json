@@ -12,17 +12,17 @@
     ],
     "songs": [
         {
-            "song": "",
-            "artist": "",
-            "url": ""
+            "song": "Need4Speed",
+            "artist": "Chuckyy",
+            "url": "https://www.youtube.com/watch?v=CJpiu_1jSrQ"
         }
     ],
     "changelog": {
         "changes": [
            {
-            "description": "Massive Energy update with performance upgrades, new systems, and fun activities!",
+            "description": "Massive BloodLife update with performance upgrades, new systems, and fun activities!",
             "type": "UPDATE",
-            "title": "Energy 1.5"
+            "title": "BloodLife 1.5"
         },
         {
             "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
@@ -45,22 +45,22 @@
             "title": "INJURY SYSTEM + HEALING ITEMS"
         },
         {
-            "description": "Fully redesigned notification system to better match the custom Energy UI style.",
+            "description": "Fully redesigned notification system to better match the custom BloodLife UI style.",
             "type": "REDESIGN",
             "title": "NOTIFICATION SYSTEM"
         },
         {
-            "description": "Progress bars have been completely redesigned to better align with the Energy look and feel.",
+            "description": "Progress bars have been completely redesigned to better align with the BloodLife look and feel.",
             "type": "REDESIGN",
             "title": "PROGRESS BAR SYSTEM"
         },
         {
-            "description": "New animated loading screen with immersive visual design customized for Energy.",
+            "description": "New animated loading screen with immersive visual design customized for BloodLife.",
             "type": "REDESIGN",
             "title": "LOADING SCREEN"
         },
         {
-            "description": "New custom pause menu designed to fit the theme and layout of Energy.",
+            "description": "New custom pause menu designed to fit the theme and layout of BloodLife.",
             "type": "REDESIGN",
             "title": "PAUSE MENU"
         },
@@ -102,7 +102,7 @@
         {
             "description": "New arcade event added at Postal 910 for fun competitive events.",
             "type": "NEW",
-            "title": "Energy ARCADES"
+            "title": "BloodLife ARCADES"
         },
         {
             "description": "Laser tag system added at Postal 622  play competitive matches with friends using laser gear.",
@@ -117,29 +117,29 @@
     },
     "players": [
         {
-            "description": "5STAR has dominated the streets this month with strategic takeovers, relentless turf control, and a reputation that leaves their enemies second-guessing every move. Feared, respected, and always a step ahead  they have earned their spot at the top.",
-            "name": "5$TAR",
-            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_vIV2FpZvwOsss.png",
+            "description": "GSF has dominated the streets this month with strategic takeovers, relentless turf control, and a reputation that leaves their enemies second-guessing every move. Feared, respected, and always a step ahead  they have earned their spot at the top.",
+            "name": "GSF",
+            "image": "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/maxresdefault(3).jpg",
             "category": "Top Gang"
         },
         {
-            "description": "Khloe Bad has set the standard this month with sharp investigative work, unmatched professionalism, and relentless pursuit of justice. From undercover ops to high-stakes busts, she's proven why she's a key player in the LSPD and more than earned her spot as Police Officer of the Month.",
-            "name": "Klomoney",
-            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_RYpZXoD15c.png",
+            "description": "Phantom has set the standard this month with sharp investigative work, unmatched professionalism, and relentless pursuit of justice. From undercover ops to high-stakes busts, Hes proven why he's a key player in the LSPD and more than earned his spot as Police Officer of the Month.",
+            "name": "Phantom",
+            "image": "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/0d06e38d2dc104dcbd7ec4cecfdf7e1e.png",
             "category": "POLICE Officer"
         },
         {
-            "description": "Cluck n Stack has gone above and beyond this month, setting a new standard for excellence in service and quality. Through teamwork, leadership, and dedication, we’ve continued to exceed expectations and drive success. We’re proud of our achievements and excited for what’s ahead.",
-            "name": "Cluck N Stack",
-            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/image_2025-05-28_060335089.png",
+            "description": "Rustys Donut 753 has gone above and beyond this month, setting a new standard for excellence in service and quality. Through teamwork, leadership, and dedication, we’ve continued to exceed expectations and drive success. We’re proud of our achievements and excited for what’s ahead.",
+            "name": "Rustys Donut 753",
+            "image": "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/Ndagx6G.jpeg",
             "category": "Top Business"
         }
     ],
     "store": {
         "type_text": "",
-        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Energy Roleplay",
-        "url": "https://energy-rp.tebex.io/",
-        "title": "Energy STORE",
+        "description": "COMING SOON",
+        "url": "https://BloodLife-rp.tebex.io/",
+        "title": "BloodLife STORE",
         "type": "1.5 Sale Live Now!"
     }
 }
