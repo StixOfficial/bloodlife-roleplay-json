@@ -1,19 +1,18 @@
 {
     "backgrounds": [
-"https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/some-fivem-gta-v-screenshots-upscaled-with-ai-v0-w1pkf9k71vxc1.webp",
-        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/some-fivem-gta-v-screenshots-upscaled-with-ai-v0-w1pkf9k71vxc1.webp",
-        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/some-fivem-gta-v-screenshots-upscaled-with-ai-v0-w1pkf9k71vxc1.webp",
-        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/some-fivem-gta-v-screenshots-upscaled-with-ai-v0-w1pkf9k71vxc1.webp",
-        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/some-fivem-gta-v-screenshots-upscaled-with-ai-v0-w1pkf9k71vxc1.webp",
-        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/some-fivem-gta-v-screenshots-upscaled-with-ai-v0-w1pkf9k71vxc1.webp"
+        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/fivem-phij6nj2uomms13h.jpg",
+        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/fivem-phij6nj2uomms13h.jpg",
+        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/e64a4d4e28590e912f4f21934d0c9b82.jpg",
+        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/fivem-x729a1kh92isrmco.jpg",
+        "https://r2.fivemanage.com/cQEs0Qqw5Q489xXGFplw4/car-dark-grand-theft-auto-fivem-white-hd-wallpaper-preview.jpg"
 
       
     ],
     "songs": [
         {
-            "song": "Need4Speed",
-            "artist": "Chuckyy",
-            "url": "https://www.youtube.com/watch?v=CJpiu_1jSrQ"
+            "song": "BANDIT",
+            "artist": "Don Toliver",
+            "url": "https://www.youtube.com/watch?v=FauDn2LkeQ4"
         }
     ],
       "changelog": {
@@ -21,7 +20,7 @@
            {
             "description": "Massive BloodLife update with performance upgrades, new systems, and fun activities!",
             "type": "UPDATE",
-            "title": "BloodLife 1.0"
+            "title": "BloodLife 1.5"
         },
         {
             "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
